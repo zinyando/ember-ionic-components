@@ -1,6 +1,6 @@
-# ember-ionic-components
+# Ember Ionic Components
 
-This README outlines the details of collaborating on this Ember addon.
+Ionic framework components ported to Ember.js
 
 ## Installation
 
@@ -9,19 +9,37 @@ This README outlines the details of collaborating on this Ember addon.
 * `npm install`
 * `bower install`
 
-## Running
+## Todo
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+- [] Ion list
+- [] Ion menu
+- [] Ion button
+- [] Ion cards
+- [] Ion checkbox
+- [] Ion icons
+- [] Ion inputs
+- [] Ion modals
+- [] Ion navigation
+- [] Ion header
+- [] Ion toolbar
+- [] Ion content
+- [] Ion item
+- [] Ion title
+- [] Ion footer
+- [] Ion toogle
+- [] Ion tabs
+- [] Ion slide
+- [] Ion select
+- [] Ion segment
+- [] Ion searchbar
+- [] Ion thumbnail
+- [] Ion range
+- [] Ion radio
+- [] Ion popover
+- [] Ion loading
+- [] Ion grid
+- [] Ion gestures
+- [] Ion fabs
+- [] Ion datetime
+- [] Ion action sheets
+- [] Ion badges
